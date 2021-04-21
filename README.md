@@ -2,9 +2,9 @@
 
 ## 简介：Introduction
 
-只需输入你的mfa，剩余的交给它。
+## 只需输入你的mfa，剩余的交给它。
 
-Just type your MFA and give it the rest.
+## Just type your MFA and give it the rest.
 
 ## 配置文件：Configuration File
 
